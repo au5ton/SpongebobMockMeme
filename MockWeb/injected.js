@@ -2,7 +2,7 @@
 	// code goes here
 
 	const INTENSITY = 0.4; // double from 0.0 to 1.0 describing how often to up_char
-	const SELECTOR = 'a,abbr,address,article,aside,b,blockquote,button,caption,cite,code,div,h1,h2,h3,h4,h5,header,i,ol,ul,li,p,sub,span,strong';
+	const SELECTOR = 'a,abbr,address,article,aside,b,blockquote,button,caption,cite,code,div,h1,h2,h3,h4,h5,header,i,ol,ul,li,p,sub,span,strong,label';
 
 	function mock(str) {
 		if (typeof str === 'string') {
